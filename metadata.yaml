@@ -1,0 +1,31 @@
+_repo: A-Set-of-Rogues--13-Namely-Christopher-Sutton-John-Dawson-the-Se-or-Don-Sanchez-Del-Castillo-__10727
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barrett, Frank
+    birthdate: 1848
+    gutenberg_agent_id: '3653'
+    url: http://www.gutenberg.org/2009/agents/3653
+description: ''
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10727'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction'
+- !lcsh 'Rogues and vagabonds -- Fiction'
+- !lcsh 'Great Britain -- History -- Charles II, 1660-1685 -- Fiction'
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcsh 'Impostors and imposture -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Pirates -- Fiction'
+- GITenberg
+title: "A Set of Rogues\r\nNamely Christopher Sutton, John Dawson, the Señor Don Sanchez\
+  \ Del Castillo De Castelaña and Moll Dawson; Their Wicked Conspiracy, and a True\
+  \ Account of Their Travels and Adventures"
+url: http://www.gutenberg.org/ebooks/10727
