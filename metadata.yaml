@@ -1,5 +1,8 @@
 _repo: A-Set-of-Rogues--13-Namely-Christopher-Sutton-John-Dawson-the-Se-or-Don-Sanchez-Del-Castillo-__10727
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Barrett, Frank
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '3653'
     url: http://www.gutenberg.org/2009/agents/3653
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10727#A-Set-of-Rogues--13-Namely-Christopher-Sutton-John-Dawson-the-Se-or-Don-Sanchez-Del-Castillo-_
 gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
